@@ -1,4 +1,4 @@
-# two
+# vue
 
 ## Project setup
 ```
